@@ -1,4 +1,4 @@
-# 👋 Hi, I'm empresainc
+# 👋 Hi, I'm Discover news
 
 💼 Technical Support | Developer | Script Creator  
 🌐 HTML • CSS • Java • Automation Scripts  
