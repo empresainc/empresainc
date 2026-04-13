@@ -1,21 +1,23 @@
-# 👋 Hi, I'm Discover news
+# 👋 Hello, I'm empresainc
 
-💼 Technical Support | Developer | Script Creator  
-🌐 HTML • CSS • Java • Automation Scripts  
+### 💼 Technical Support • Developer • Script Creator
+
+Professional Technical Support with experience in development, automation, and scripting.
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🔧 Technical Support (Google Services)  
 💻 HTML & CSS Developer  
 ☕ Java Developer  
 📜 Script Creator  
 📺 Content Creator  
+⚡ Automation & Tools  
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 🦈 Pull Shark  
 ⚡ Quickdraw  
@@ -23,38 +25,48 @@
 
 ---
 
-## 🛠️ Languages & Tools
+# 🛠️ Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-Developer-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-Developer-blue?style=for-the-badge&logo=css3)
-![Java](https://img.shields.io/badge/Java-Developer-red?style=for-the-badge&logo=java)
-![GitHub](https://img.shields.io/badge/GitHub-Active-black?style=for-the-badge&logo=github)
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=empresainc&show_icons=true&theme=tokyonight)
+<p>
+<img src="https://img.shields.io/badge/HTML5-Developer-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-Developer-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-Developer-red?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Active-black?style=for-the-badge&logo=github"/>
+</p>
 
 ---
 
-## 🔥 Most Used Languages
+# 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=empresainc&layout=compact&theme=tokyonight)
-
----
-
-## 🚀 Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=empresainc&theme=tokyo-night)
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=empresainc&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📫 Contact
+# 🔥 Most Used Languages
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=empresainc&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=empresainc&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 📫 Contact
 
 📺 YouTube: Your Channel  
 💻 GitHub: empresainc  
 
 ---
 
-⭐ Professional Developer & Technical Support
+# 🚀 Professional Technical Support & Developer
+
+⭐ Building tools, scripts and solutions
